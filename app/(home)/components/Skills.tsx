@@ -60,9 +60,12 @@ export default function skills() {
 
         <Tittle 
         
-        text ="Skills 🔪 " className="flex flex-col items-center justify-center -rotate-6"/>
+        text ="Skills 🔪 " 
+        className="flex flex-col items-center justify-center -rotate-6"/>
         
-       <HoverEffect items={skills}/>
+       <HoverEffect items={skills}
+       
+       />
 
     </div>
   )

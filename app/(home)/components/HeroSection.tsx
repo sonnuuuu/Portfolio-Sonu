@@ -40,7 +40,7 @@ export default function HeroSection() {
             <div className="w-32 h-32 rounded-full  bg-green-500"></div>
           </div>
 
-          <div className="glow absolute top-[30%] right-1/2 -z-10"></div>
+          <div className="glow absolute top-[60%] right-1/2 -z-10"></div>
         </div>
 
         <div className="absolute bottom-5 sm:bottom-14 left-0 sm:-left-10">
